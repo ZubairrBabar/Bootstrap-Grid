@@ -1,0 +1,192 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+
+/* .nav-text{
+    margin-left: 35%;
+ 
+} */
+#navbarNav{
+    margin-left: 170px;
+}
+.nav-item{
+   margin: 10px;
+    /* border: 1px black solid; */
+
+}
+
+#nav-img{
+    margin: 0 0 0 50px;
+}
+
+ .heding{
+    margin: 15%; 
+    /* border: 1px black solid; */
+    width: 75%;
+    
+}
+
+
+
+
+
+
+
+ul{
+    display: inline;
+    margin-left: 280px;
+}
+
+.nav2{    
+    /* border: 1px solid black; */
+  position: relative;
+ bottom: 130px;
+}
+
+li{
+    display: inline;
+    margin: 22px;
+   
+}
+.fa-solid{
+    margin-left: 50px;
+    /* border: black solid 1px;s */
+    font-size: 20px;
+}
+
+
+    /* grid  */
+
+
+
+
+
+
+
+.coll-1{ 
+    border: 5px white solid; 
+    height: 300px;
+    background-image: url(image/1.PNG);
+    background-size: cover;
+
+}
+
+.coll-2{
+    border: 5px white solid; 
+    height: 300px;
+    background-image: url(image/2.PNG);
+    background-size: cover;
+
+
+}
+
+.coll-3{
+    border: 5px white solid; 
+    height: 300px;
+    background-image: url(image/3.PNG);
+    background-size: cover;
+
+
+}
+
+.coll-4{
+    border: 5px white solid; 
+    height: 300px;
+    background-image: url(image/4.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.coll-5{
+    border: 5px white solid; 
+    background-size: cover;
+    height: 300px;
+    background-image: url(image/5.PNG);
+}
+
+.coll-6{
+    border: 5px white solid; 
+    background-image: url(image/6.PNG);
+    background-size: cover;
+    height: 300px;
+
+}
+
+.coll-7{
+    background-size: cover;
+    border: 5px white solid; 
+    background-image: url(image/7.PNG);
+    height: 300px;
+}
+
+.coll-8{
+    background-size: cover;
+    border: 5px white solid; 
+    height: 300px;
+    background-image: url(image/8.PNG);
+}
+
+.coll-9{
+    height: 300px;
+    background-size: cover;
+    border: 5px white solid; 
+    background-image: url(image/9.PNG);
+}
+
+.coll-10{ 
+    background-size: cover;
+    border: 5px white solid; 
+    height: 300px;  
+    background-image: url(image/10.PNG);
+}
+
+.coll-11{
+    background-size: cover;
+    height: 300px;
+    border: 5px white solid; 
+    background-image: url(image/11.PNG);
+}
+
+.coll-12{
+    background-size: cover;
+    height: 300px;
+    border: 5px white solid; 
+    background-image: url(image/12.PNG);
+}
+.coll-13{
+    height: 300px;
+    height: 300px; 
+    background-size: cover;
+    border: 5px white solid; 
+    background-image: url(image/13.PNG);
+}
+
+.coll-14{
+    background-size: cover;
+    border: 5px white solid; 
+    height: 300px;
+    background-image: url(image/14.PNG);
+}
+
+
+
+.coll-15{
+    background-size: cover;
+    height: 300px;   
+    border: 5px white solid; 
+    background-image: url(image/15.PNG);
+}
+
+.coll-16{
+    border: 5px white solid; 
+    background-size: cover;
+    height: 300px;
+    background-image: url(image/16.PNG);
+}
+
+.container2{
+    position: relative;
+    bottom: 60%;
+}
